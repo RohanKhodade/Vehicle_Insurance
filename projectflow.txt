@@ -1,0 +1,16 @@
+1. create a folder structure by executing template.py
+2. write the code in setup.py and pyproject.toml to import local packages
+3. Create the virtual env and install requirements using requirements.txt
+
+--------------------------------------------------Mongo Setup------------------------------------------------------
+4. sign in in mongo db atlas and create new project by providing it name then next next create.
+5. From create a cluster hit "create" select "M0" service keeeping other services as default, hit "create deployment"
+6. setup username and password and then create DB user. (rohankhodade884,arCevuO1kNmGVSfv).
+7. Go to the "network access" and add the ip address "0.0.0.0/0" so that we can access it from anyhere.
+8. Go back to the project and get the connection string 
+    (mine is  :mongodb+srv://rohankhodade884:<db_password>@cluster0.ultet0n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0)
+
+9. create Folder notebooks and add the file mongodb.ipynb 
+10. add dataset to notebook folder.
+11. push your data to mongodb database from python notebook
+12. go to the  mongodb atlas>>database>>Browse collections>> se your data in key value pairs
