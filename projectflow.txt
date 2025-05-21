@@ -10,7 +10,14 @@
 8. Go back to the project and get the connection string 
     (mine is  :mongodb+srv://rohankhodade884:<db_password>@cluster0.ultet0n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0)
 
+
 9. create Folder notebooks and add the file mongodb.ipynb 
 10. add dataset to notebook folder.
 11. push your data to mongodb database from python notebook
-12. go to the  mongodb atlas>>database>>Browse collections>> se your data in key value pairs
+12. go to the  mongodb atlas>>database>>Browse collections>> se your data in key value format
+
+---------------------------------------------logging ,exception and notebooks----------------------------------------
+13. write the logger file and test it in demo.py
+14. write the exception file and test it in demo.py
+15. Create the expriment notebook and do the research,eda, transformation,cleaning ,analysis, model building, hyper tuning  and save the model 
+
