@@ -20,3 +20,6 @@
 14. write the exception file and test it in demo.py
 15. Create the expriment notebook and do the research,eda, transformation,cleaning ,analysis, model building, hyper tuning  and save the model 
 
+----------------------------------------------Data Ingestion Component----------------------------------------------------
+16. Before Starting declare the variables in constant folders init file
+17. add the code to configuration> mongo_db_connection.py file and define the function for mongodb connection 
