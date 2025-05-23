@@ -33,3 +33,8 @@
 22. work on model trainer then add the class to estimator.py in entity folder
 
 23.----------------now set up the aws services ---------------
+set up the aws account
+create iam user and set up s3 bucket 
+save the credientials 
+
+24. add model evaluation and the trainer in components
