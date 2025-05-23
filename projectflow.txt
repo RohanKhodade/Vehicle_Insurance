@@ -23,3 +23,13 @@
 ----------------------------------------------Data Ingestion Component----------------------------------------------------
 16. Before Starting declare the variables in constant folders init file
 17. add the code to configuration> mongo_db_connection.py file and define the function for mongodb connection 
+18. add the code to dataaccess.project1_data.py and entity.config_entity.py till dataingestionconfig
+19. add code to entity.artifact_entity.py till data ingestion artifact_entity and add code to training pipeline
+
+------------------------------------Data validation ,transofrmation ,model trainer---------------------------------------------
+19. complete the work on utils.main_utils.py and config.schema.yaml (info about dataset)
+20. work on data validation
+21. work on data transformation then add code in estimator.py  in entity folder
+22. work on model trainer then add the class to estimator.py in entity folder
+
+23.----------------now set up the aws services ---------------
